@@ -7,9 +7,11 @@ The package dplyr needs to be installed for the script to run.
 
 The Script writes the final tidy data to a file named DataExport.txt.
 
+If code book is not displayed properly in the git hub repo use the RAW option.
+
 For this project the discussion topic posted by the TA,David Hood titled "David's personal course project FAQ" has been helpful. Especially the export and reading of the final tidy data. 
 
 The data file can be read by using these below lines in the same working directory as above.
 
-#data <- read.table(file_path, header = TRUE) 
-#View(data)
+data <- read.table(file_path, header = TRUE) 
+View(data)
