@@ -3,14 +3,14 @@ The data set contains mean and standard deviation of for each Activity and Subje
 The measurements include signals measured in X,Y and Z directions for accelerometer and gyroscope signals at rate of 50Hz. 
 
 
-#Activity  1
-#      Activities performed
-#         WALKING
-#         WALKING_UPSTAIRS
-#         WALKING_DOWNSTAIRS
-#         SITTING
-#         STANDING
-#         LAYING
+Activity  1
+      Activities performed
+         WALKING
+         WALKING_UPSTAIRS
+         WALKING_DOWNSTAIRS
+         SITTING
+         STANDING
+        LAYING
 Subjects  2
         Number of Subjects in the test
         1..30 
